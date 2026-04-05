@@ -10,7 +10,7 @@ its basically a 2D multiplayer virtual space where you can walk around and if yo
 
 ## how to run
 
-you need Node.js (v18+) and MongoDB installed
+you need Node.js (v20+) and MongoDB installed
 
 ```bash
 git clone <your-repo-url>
